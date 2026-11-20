@@ -1,0 +1,10 @@
+nive/
+_pycache_/
+*.pyc
+.venv/
+venv/
+.ipynd_chechpoints/
+metrics.json
+mlflow.db
+mlruns/
+.Ds_Store

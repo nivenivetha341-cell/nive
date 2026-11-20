@@ -1,0 +1,11 @@
+.venv/
+_pycache_/
+*._pyc
+.git/
+.dvc/
+dataset/
+notebook/
+mlruns/
+*.dvc
+dvc.lock
+dvc.yaml 
